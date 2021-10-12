@@ -1,0 +1,9 @@
+[submodule "dwm-orig"]
+	path = dwm-orig
+	url = https://git.suckless.org/dwm
+[submodule "dwm-edit-pinephone"]
+	path = dwm-edit-pinephone
+	url = https://github.com/AltTechTools/dwm-edit-pinephone.git
+[submodule "dwm-edit"]
+	path = dwm-edit
+	url = https://github.com/AltTechTools/dwm-edit.git
